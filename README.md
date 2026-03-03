@@ -1,6 +1,9 @@
 Branch 2: Change A
 Branch 2: Change B
 Branch 2: Change C
+Branch 1: First change
+Branch 1: Second change
+Branch 1: Third change
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
